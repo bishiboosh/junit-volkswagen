@@ -10,7 +10,7 @@ This project is inspired by [volkswagen](https://github.com/auchenberg/volkswage
 Installation
 ------------
 
-Follow the instructions on [Jitpack](https://jitpack.io/#jitpack/gradle-simple) to use with your favorite build system.
+Follow the instructions on [Jitpack](https://jitpack.io/#bishiboosh/junit-volkswagen) to use with your favorite build system.
 
 Usage
 -----
