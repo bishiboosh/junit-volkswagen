@@ -1,7 +1,7 @@
 Volkswagen for JUnit4
 ================
 
-[![Release](https://img.shields.io/github/release/jitpack/gradle-simple.svg?label=maven)](https://jitpack.io/#jitpack/gradle-simple)
+[![Release](https://img.shields.io/github/release/bishiboosh/junit-volkswagen.svg?label=maven)](https://jitpack.io/#bishiboosh/junit-volkswagen)
 
 Volkswagen for JUnit4 makes failing test cases pass in CI servers.
 
@@ -17,9 +17,4 @@ Usage
 
 Add this at the top of your JUnit4 class :
 
-```@RunWith(VolkswagenTestRunner.class)```
-
-Example
--------
-
-TODO
+    @RunWith(VolkswagenTestRunner.class)
